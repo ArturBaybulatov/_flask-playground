@@ -1,0 +1,7 @@
+Flask
+flask-cors
+Flask-Restless
+Flask-SQLAlchemy
+psycopg2
+pydash
+pyreadline # Console tab completion
